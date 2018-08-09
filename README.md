@@ -28,5 +28,7 @@ To quit before game ends:
 ctrl + c
 ```
 
-### features to add:
-Function to search oxford dictionary api for word definition and display result.
+## Features to add:
+1. Function to search oxford dictionary api for word definition and display result.
+2. Scoreboard function so multiple players can see scores over time.
+3. Create flask webapp as web interface.
