@@ -17,6 +17,12 @@ Run command:
 python3 app.py
 ```
 
+Alternatively, make the file executable and run directly:
+```
+chmod +x app.py
+./app.py
+```
+
 To quit before game ends:
 ```
 ctrl + c
