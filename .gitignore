@@ -1,10 +1,6 @@
 
 # Created by https://www.gitignore.io/api/osx,linux,python,windows
 
-### Project Directory Files ###
-credentials.py
-
-
 ### Linux ###
 *~
 
