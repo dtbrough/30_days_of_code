@@ -2,3 +2,6 @@
 
 ## day_0
 Hello World!
+
+## day_1
+Data Types
